@@ -7,7 +7,6 @@ Online eBook library review site
  - reviews books
 
 ## Gems of Note
- - Devise for user handling
- - Paperclip gem for uploading/storing book images
+ - **Devise** for user handling
+ - **Paperclip** for uploading/storing book images
 
- 
