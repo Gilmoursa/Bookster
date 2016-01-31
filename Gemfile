@@ -1,6 +1,7 @@
 source 'https://rubygems.org'
 
 gem 'awesome_print'
+gem 'devise', '~> 3.5', '>= 3.5.5'
 gem 'rails', '4.2.5'
 gem 'sqlite3'
 gem 'sass-rails', '~> 5.0'
